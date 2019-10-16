@@ -1,0 +1,44 @@
+body {background-position:top left;background-attachment:fixed;
+  background-repeat:no-repeat; margin: 3em 0; font-size: 14pt;}
+
+#index {position:absolute; top:0; right:0; color:#444; font-family:sans-serif;}
+#index a {color:#44F; font-weight:bold; text-decoration:none;}
+#index a:hover {color:#99F;}
+#container{color:#000;background-color:#FFF;margin:0 auto;width:42em;position:relative;}
+#information {text-align:center;}
+#information a {text-decoration:none;color:#88E;}
+#information a:hover {text-decoration:underline;}
+h1{color:#1079ac;font-weight:normal;font-family:sans-serif;
+  text-align:center;}
+h1 a {color:inherit;text-decoration:inherit;}
+
+#name {margin-bottom:0em;}
+#email {text-align:center;margin-bottom:0px; margin-top:4px;color:#000;position:relative;top:-0.7em;}
+
+#content h2 {padding-left: 0; border-bottom:none; text-align:right; padding-right:75%;}
+#content li {margin-top:1em;}
+#content table {margin-left:2em;}
+#content h3 {font-family:sans-serif; color:#000; font-weight:normal; border-left: 2em solid #CCC; padding-left:1em}
+table {border-collapse: collapse}
+thead tr th {border-bottom: 1px solid #CCC;}
+tbody th {text-align:right; padding-right:2em;}
+
+a img{border:0;}
+
+
+#projects {margin-top:0 em;width:100%; text-align:justify;}
+#projects td {padding:0.5em 0;}
+#projects th {font-weight:normal; width:8em; text-align:right; vertical-align:top; padding:0.3em 1.2em 0 0;}
+#projects a {color:#44F; text-decoration:none;}
+#projects a:hover {color:#99F;}
+
+#projects .blurb td, #projects .blurb th {padding-top:1.25em; padding-bottom:2em; vertical-align:top; }
+
+
+#working { text-align:left; color:#1079ac; font-size: 18pt }
+
+.wip {color:#999;}
+
+.papers {margin-top:8px; text-align:justify;}
+.papers a {text-decoration:none; color:#000;}
+.papers a:hover {text-decoration:none; color:#555}
